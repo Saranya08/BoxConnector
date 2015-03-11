@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="Bean Validation" type="BeanValidation">
+    <CLASSES>
+      <root url="jar://C:/Program Files/apache-tomcat-7.0.57/lib/jsp-api.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

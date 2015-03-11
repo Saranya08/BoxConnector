@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="org.mortbay.jetty.util">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/Downloads/org.mortbay.jetty.util.jar/org.mortbay.jetty.util.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
