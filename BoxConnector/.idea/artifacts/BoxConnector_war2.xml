@@ -3,11 +3,6 @@
     <output-path>$PROJECT_DIR$/target</output-path>
     <root id="archive" name="BoxConnector.war">
       <element id="artifact" artifact-name="BoxConnector:war exploded" />
-      <element id="directory" name="WEB-INF">
-        <element id="directory" name="lib">
-          <element id="library" level="project" name="org.mortbay.jetty.util" />
-        </element>
-      </element>
     </root>
   </artifact>
 </component>

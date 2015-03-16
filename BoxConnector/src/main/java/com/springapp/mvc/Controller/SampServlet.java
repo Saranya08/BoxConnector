@@ -1,18 +1,15 @@
 package com.springapp.mvc.Controller;
 
-import org.apache.commons.io.FileUtils;
-import org.json.JSONException;
-import org.json.JSONObject;
-import org.mortbay.util.ajax.JSON;
-import org.testng.Assert;
 import javax.servlet.ServletException;
 import javax.servlet.annotation.WebServlet;
 import javax.servlet.http.HttpServlet;
 import javax.servlet.http.HttpServletRequest;
 import javax.servlet.http.HttpServletResponse;
+import java.io.BufferedReader;
 import java.io.IOException;
+import java.io.InputStreamReader;
 import java.io.PrintWriter;
-import org.apache.log4j.Logger;
+import java.util.logging.Logger;
 /**
  * Created by 441692 on 3/9/2015.
  */
@@ -35,9 +32,22 @@ public class SampServlet extends HttpServlet {
           //  Process pr = process.exec("pscp -pw webadmin webadmin@10.90.130.170:/apps/tomcat7.0.25/logs/scribe.log     D:\\Scribe\\");
             out.print("opened");
             LOGGER.info("Process Execution END");
+
+            BufferedReader input = new BufferedReader(new InputStreamReader(pr.getInputStream()));
+
+            String liner = null;
+
+            while ((liner = input.readLine()) != null) {
+                LOGGER.info(liner);
+            }
+
+            int exitVal = pr.waitFor();
+
+
         }
         catch (Exception e)
         {
+            LOGGER.info(e.toString());
             e.printStackTrace();
         }
     }
