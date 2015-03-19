@@ -19,11 +19,11 @@
     }
     #PredefinedRequest {
         line-height:30px;
-        width:550px;
-        float:left;
-        padding:10px;
+    width:550px;
+    float:left;
+    padding:10px;
 
-    }
+        }
 
     table#02 tr:nth-child(even) {
         background-color: #fff;

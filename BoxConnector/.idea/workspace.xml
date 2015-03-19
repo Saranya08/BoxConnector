@@ -23,6 +23,60 @@
     <disable_hints />
   </component>
   <component name="DebuggerManager">
+    <line_breakpoints>
+      <breakpoint url="file://$PROJECT_DIR$/src/main/java/com/offercast/scribe/utility/Validator.java" line="32" class="com.offercast.scribe.utility.Validator" package="com.offercast.scribe.utility">
+        <option name="ENABLED" value="true" />
+        <option name="LOG_ENABLED" value="false" />
+        <option name="LOG_EXPRESSION_ENABLED" value="false" />
+        <option name="SUSPEND_POLICY" value="SuspendAll" />
+        <option name="COUNT_FILTER_ENABLED" value="false" />
+        <option name="COUNT_FILTER" value="0" />
+        <option name="CONDITION_ENABLED" value="false" />
+        <option name="CLASS_FILTERS_ENABLED" value="false" />
+        <option name="INSTANCE_FILTERS_ENABLED" value="false" />
+        <option name="CONDITION" value="" />
+        <option name="LOG_MESSAGE" value="" />
+      </breakpoint>
+      <breakpoint url="file://$PROJECT_DIR$/src/main/java/com/offercast/scribe/controller/LogValidator.java" line="87" class="com.offercast.scribe.controller.LogValidator" package="com.offercast.scribe.controller">
+        <option name="ENABLED" value="true" />
+        <option name="LOG_ENABLED" value="false" />
+        <option name="LOG_EXPRESSION_ENABLED" value="false" />
+        <option name="SUSPEND_POLICY" value="SuspendAll" />
+        <option name="COUNT_FILTER_ENABLED" value="false" />
+        <option name="COUNT_FILTER" value="0" />
+        <option name="CONDITION_ENABLED" value="false" />
+        <option name="CLASS_FILTERS_ENABLED" value="false" />
+        <option name="INSTANCE_FILTERS_ENABLED" value="false" />
+        <option name="CONDITION" value="" />
+        <option name="LOG_MESSAGE" value="" />
+      </breakpoint>
+      <breakpoint url="file://$PROJECT_DIR$/src/main/java/com/offercast/scribe/controller/LogValidator.java" line="84" class="com.offercast.scribe.controller.LogValidator" package="com.offercast.scribe.controller">
+        <option name="ENABLED" value="true" />
+        <option name="LOG_ENABLED" value="false" />
+        <option name="LOG_EXPRESSION_ENABLED" value="false" />
+        <option name="SUSPEND_POLICY" value="SuspendAll" />
+        <option name="COUNT_FILTER_ENABLED" value="false" />
+        <option name="COUNT_FILTER" value="0" />
+        <option name="CONDITION_ENABLED" value="false" />
+        <option name="CLASS_FILTERS_ENABLED" value="false" />
+        <option name="INSTANCE_FILTERS_ENABLED" value="false" />
+        <option name="CONDITION" value="" />
+        <option name="LOG_MESSAGE" value="" />
+      </breakpoint>
+      <breakpoint url="file://$PROJECT_DIR$/src/main/java/com/offercast/scribe/controller/LogValidator.java" line="82" class="com.offercast.scribe.controller.LogValidator" package="com.offercast.scribe.controller">
+        <option name="ENABLED" value="true" />
+        <option name="LOG_ENABLED" value="false" />
+        <option name="LOG_EXPRESSION_ENABLED" value="false" />
+        <option name="SUSPEND_POLICY" value="SuspendAll" />
+        <option name="COUNT_FILTER_ENABLED" value="false" />
+        <option name="COUNT_FILTER" value="0" />
+        <option name="CONDITION_ENABLED" value="false" />
+        <option name="CLASS_FILTERS_ENABLED" value="false" />
+        <option name="INSTANCE_FILTERS_ENABLED" value="false" />
+        <option name="CONDITION" value="" />
+        <option name="LOG_MESSAGE" value="" />
+      </breakpoint>
+    </line_breakpoints>
     <breakpoint_any>
       <breakpoint>
         <option name="NOTIFY_CAUGHT" value="true" />
@@ -64,46 +118,19 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="EventGenerator.jsp" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/webapp/WEB-INF/pages/EventGenerator.jsp">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="72" column="16" selection-start="1942" selection-end="1942" vertical-scroll-proportion="-18.73077">
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="LogImporter.jsp" pinned="false" current="true" current-in-tab="true">
+      <file leaf-file-name="LogImporter.jsp" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/webapp/WEB-INF/pages/LogImporter.jsp">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="10" column="50" selection-start="236" selection-end="236" vertical-scroll-proportion="-0.14655173">
+            <state line="2" column="0" selection-start="73" selection-end="351" vertical-scroll-proportion="-1.3076923">
               <folding />
             </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="web.xml" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/webapp/WEB-INF/web.xml">
-          <provider editor-type-id="com.intellij.javaee.module.view.web.viewlets.WebModuleAssemblyDescriptorProvider">
-            <state />
-          </provider>
-          <provider editor-type-id="com.intellij.javaee.module.view.web.viewlets.WebModuleAssemblyDescriptorReferencesProvider">
-            <state />
-          </provider>
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="17" column="66" selection-start="658" selection-end="658" vertical-scroll-proportion="-14.45">
-              <folding />
-            </state>
-          </provider>
-          <provider editor-type-id="com.intellij.javaee.module.view.web.viewlets.WebModuleGeneralEditorProvider">
-            <state />
           </provider>
         </entry>
       </file>
       <file leaf-file-name="Parser.jsp" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/webapp/WEB-INF/pages/Parser.jsp">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="11" column="13" selection-start="395" selection-end="395" vertical-scroll-proportion="-7.1923075">
+            <state line="22" column="82" selection-start="661" selection-end="666" vertical-scroll-proportion="-11.461538">
               <folding />
             </state>
           </provider>
@@ -112,7 +139,34 @@
       <file leaf-file-name="Validator.jsp" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/webapp/WEB-INF/pages/Validator.jsp">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="16" column="43" selection-start="470" selection-end="470" vertical-scroll-proportion="-10.461538">
+            <state line="11" column="29" selection-start="351" selection-end="351" vertical-scroll-proportion="-0.65384614">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="EventGenerator.jsp" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/webapp/WEB-INF/pages/EventGenerator.jsp">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="45" column="39" selection-start="992" selection-end="992" vertical-scroll-proportion="-3.9230769">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="LogValidator.java" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/offercast/scribe/controller/LogValidator.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="77" column="25" selection-start="2571" selection-end="2583" vertical-scroll-proportion="0.0">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="LogImporter.java" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/offercast/scribe/utility/LogImporter.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="18" column="75" selection-start="448" selection-end="448" vertical-scroll-proportion="0.0">
               <folding />
             </state>
           </provider>
@@ -122,28 +176,15 @@
         <entry file="file://$PROJECT_DIR$/src/main/java/com/springapp/mvc/Controller/SampServlet.java">
           <provider selected="true" editor-type-id="text-editor">
             <state line="31" column="116" selection-start="1357" selection-end="1391" vertical-scroll-proportion="0.0">
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
+              <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="LogValidator.java" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/com/offercast/scribe/controller/LogValidator.java">
+      <file leaf-file-name="Validator.java" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/offercast/scribe/utility/Validator.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="49" column="73" selection-start="1820" selection-end="1820" vertical-scroll-proportion="0.0">
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="LogImporter.java" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/com/offercast/scribe/utility/LogImporter.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="38" column="13" selection-start="1295" selection-end="1295" vertical-scroll-proportion="0.0">
+            <state line="27" column="0" selection-start="717" selection-end="717" vertical-scroll-proportion="0.0">
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -154,18 +195,16 @@
       <file leaf-file-name="EventGenerator.java" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/java/com/offercast/scribe/utility/EventGenerator.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="27" column="58" selection-start="743" selection-end="743" vertical-scroll-proportion="0.0">
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
+            <state line="26" column="36" selection-start="780" selection-end="780" vertical-scroll-proportion="0.0">
+              <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="Connector.java" pinned="false" current="false" current-in-tab="false">
+      <file leaf-file-name="Connector.java" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/main/java/com/springapp/mvc/Controller/Connector.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="36" column="70" selection-start="1125" selection-end="1125" vertical-scroll-proportion="0.0">
+            <state line="85" column="27" selection-start="2641" selection-end="2654" vertical-scroll-proportion="0.58588237">
               <folding />
             </state>
           </provider>
@@ -186,20 +225,22 @@
   <component name="IdeDocumentHistory">
     <option name="changedFiles">
       <list>
-        <option value="$PROJECT_DIR$/src/main/java/com/springapp/mvc/Controller/SampServlet.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/springapp/mvc/HelloController.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/springapp/mvc/Controller/Controller.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/springapp/mvc/Controller/HelloController.java" />
-        <option value="$PROJECT_DIR$/src/main/webapp/WEB-INF/pages/Parser.jsp" />
         <option value="$PROJECT_DIR$/src/main/webapp/WEB-INF/pages/samp.jsp" />
         <option value="$PROJECT_DIR$/src/main/java/com/springapp/mvc/Controller/LogValidator.java" />
         <option value="$PROJECT_DIR$/src/main/webapp/WEB-INF/mvc-dispatcher-servlet.xml" />
-        <option value="$PROJECT_DIR$/src/main/webapp/WEB-INF/pages/LogImporter.jsp" />
-        <option value="$PROJECT_DIR$/src/main/webapp/WEB-INF/pages/Validator.jsp" />
-        <option value="$PROJECT_DIR$/src/main/java/com/offercast/scribe/controller/LogValidator.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/offercast/scribe/utility/EventGenerator.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/offercast/scribe/utility/LogImporter.java" />
         <option value="$PROJECT_DIR$/src/main/webapp/WEB-INF/pages/EventGenerator.jsp" />
-        <option value="$PROJECT_DIR$/src/main/java/com/offercast/scribe/utility/EventGenerator.java" />
+        <option value="$PROJECT_DIR$/src/main/webapp/WEB-INF/pages/LogImporter.jsp" />
+        <option value="$PROJECT_DIR$/src/main/webapp/WEB-INF/pages/Parser.jsp" />
+        <option value="$PROJECT_DIR$/src/main/java/com/springapp/mvc/Controller/Connector.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/offercast/scribe/utility/Parser.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/offercast/scribe/controller/LogValidator.java" />
+        <option value="$PROJECT_DIR$/src/main/webapp/WEB-INF/pages/Validator.jsp" />
+        <option value="$PROJECT_DIR$/src/main/java/com/offercast/scribe/utility/Validator.java" />
       </list>
     </option>
   </component>
@@ -269,8 +310,10 @@
     </treeState>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="width" value="1366" />
-    <option name="height" value="728" />
+    <option name="x" value="-8" />
+    <option name="y" value="-8" />
+    <option name="width" value="1382" />
+    <option name="height" value="744" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="false">
     <OptionsSetting value="true" id="Add" />
@@ -301,6 +344,7 @@
     </navigator>
     <panes>
       <pane id="Scope" />
+      <pane id="PackagesPane" />
       <pane id="ProjectPane">
         <subPane>
           <PATH>
@@ -509,7 +553,6 @@
           </PATH>
         </subPane>
       </pane>
-      <pane id="PackagesPane" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -926,7 +969,7 @@
     </configuration>
     <configuration default="true" type="JavascriptDebugSession" factoryName="Remote">
       <JSRemoteDebuggerConfigurationSettings>
-        <option name="engineId" />
+        <option name="engineId" value="embedded" />
         <option name="fileUrl" />
       </JSRemoteDebuggerConfigurationSettings>
       <method>
@@ -1324,14 +1367,14 @@
     <option name="totallyTimeSpent" value="23424000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="0" y="0" width="1366" height="728" extended-state="1" />
-    <editor active="false" />
+    <frame x="-8" y="-8" width="1382" height="744" extended-state="1" />
+    <editor active="true" />
     <layout>
       <window_info id="Data Sources" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
       <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.48464164" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="IDEtalk Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="15" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="8" side_tool="true" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="5" side_tool="true" content_ui="tabs" />
@@ -1341,10 +1384,10 @@
       <window_info id="Web" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.12405446" sideWeight="0.5020576" order="4" side_tool="true" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.07526882" sideWeight="0.53157896" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.057663128" sideWeight="0.8242321" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="SLIDING" type="SLIDING" visible="false" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.30107528" sideWeight="0.53157896" order="0" side_tool="false" content_ui="combo" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.46842104" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.2670713" sideWeight="0.8242321" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.17576791" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="UI Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Palette&#9;" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
@@ -1425,11 +1468,6 @@
     <option name="FILTER_TARGETS" value="false" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/pom.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" />
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/webapp/WEB-INF/mvc-dispatcher-servlet.xml">
       <provider selected="true" editor-type-id="text-editor">
         <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" />
@@ -1445,49 +1483,86 @@
         <state line="18" column="66" selection-start="728" selection-end="728" vertical-scroll-proportion="0.0" />
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/webapp/WEB-INF/pages/Validator.jsp">
+    <entry file="file://$PROJECT_DIR$/src/main/webapp/WEB-INF/mvc-dispatcher-servlet.xml">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="16" column="43" selection-start="470" selection-end="470" vertical-scroll-proportion="-10.461538">
-          <folding />
-        </state>
+        <state line="14" column="29" selection-start="729" selection-end="729" vertical-scroll-proportion="-11.9" />
+      </provider>
+      <provider editor-type-id="com.intellij.spring.perspectives.SpringBeansStructureEditorProvider">
+        <state />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/webapp/WEB-INF/web.xml">
-      <provider editor-type-id="com.intellij.javaee.module.view.web.viewlets.WebModuleAssemblyDescriptorProvider">
+      <provider editor-type-id="com.intellij.javaee.module.view.web.viewlets.WebModuleGeneralEditorProvider">
         <state />
+      </provider>
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="17" column="66" selection-start="658" selection-end="658" vertical-scroll-proportion="0.0" />
       </provider>
       <provider editor-type-id="com.intellij.javaee.module.view.web.viewlets.WebModuleAssemblyDescriptorReferencesProvider">
         <state />
       </provider>
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="17" column="66" selection-start="658" selection-end="658" vertical-scroll-proportion="-14.45">
-          <folding />
-        </state>
-      </provider>
-      <provider editor-type-id="com.intellij.javaee.module.view.web.viewlets.WebModuleGeneralEditorProvider">
+      <provider editor-type-id="com.intellij.javaee.module.view.web.viewlets.WebModuleAssemblyDescriptorProvider">
         <state />
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/webapp/WEB-INF/mvc-dispatcher-servlet.xml">
-      <provider editor-type-id="com.intellij.spring.perspectives.SpringBeansStructureEditorProvider">
-        <state />
-      </provider>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/offercast/scribe/utility/Parser.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="14" column="29" selection-start="729" selection-end="729" vertical-scroll-proportion="-11.9">
+        <state line="22" column="13" selection-start="563" selection-end="563" vertical-scroll-proportion="0.0" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/webapp/WEB-INF/pages/Parser.jsp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="22" column="82" selection-start="661" selection-end="666" vertical-scroll-proportion="-11.461538">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/springapp/mvc/Controller/SampServlet.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="31" column="116" selection-start="1357" selection-end="1391" vertical-scroll-proportion="0.0" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/offercast/scribe/utility/EventGenerator.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="26" column="36" selection-start="780" selection-end="780" vertical-scroll-proportion="0.0" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/offercast/scribe/utility/LogImporter.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="18" column="75" selection-start="448" selection-end="448" vertical-scroll-proportion="0.0" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/webapp/WEB-INF/pages/LogImporter.jsp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="2" column="0" selection-start="73" selection-end="351" vertical-scroll-proportion="-1.3076923">
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/webapp/WEB-INF/pages/EventGenerator.jsp">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="72" column="16" selection-start="1942" selection-end="1942" vertical-scroll-proportion="-18.73077">
+        <state line="45" column="39" selection-start="992" selection-end="992" vertical-scroll-proportion="-3.9230769">
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/offercast/scribe/utility/EventGenerator.java">
+    <entry file="file://$PROJECT_DIR$/src/main/webapp/WEB-INF/pages/Validator.jsp">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="27" column="58" selection-start="743" selection-end="743" vertical-scroll-proportion="0.0">
+        <state line="11" column="29" selection-start="351" selection-end="351" vertical-scroll-proportion="-0.65384614">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/offercast/scribe/controller/LogValidator.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="77" column="25" selection-start="2571" selection-end="2583" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/offercast/scribe/utility/Validator.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="27" column="0" selection-start="717" selection-end="717" vertical-scroll-proportion="0.0">
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
@@ -1496,48 +1571,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/com/springapp/mvc/Controller/Connector.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="36" column="70" selection-start="1125" selection-end="1125" vertical-scroll-proportion="0.0">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/offercast/scribe/utility/LogImporter.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="38" column="13" selection-start="1295" selection-end="1295" vertical-scroll-proportion="0.0">
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/springapp/mvc/Controller/SampServlet.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="31" column="116" selection-start="1357" selection-end="1391" vertical-scroll-proportion="0.0">
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/webapp/WEB-INF/pages/Parser.jsp">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="11" column="13" selection-start="395" selection-end="395" vertical-scroll-proportion="-7.1923075">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/offercast/scribe/controller/LogValidator.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="49" column="73" selection-start="1820" selection-end="1820" vertical-scroll-proportion="0.0">
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/webapp/WEB-INF/pages/LogImporter.jsp">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="10" column="50" selection-start="236" selection-end="236" vertical-scroll-proportion="-0.14655173">
+        <state line="85" column="27" selection-start="2641" selection-end="2654" vertical-scroll-proportion="0.58588237">
           <folding />
         </state>
       </provider>

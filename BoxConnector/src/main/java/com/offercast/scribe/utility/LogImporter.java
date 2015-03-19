@@ -1,7 +1,6 @@
 package com.offercast.scribe.utility;
 
 import org.springframework.stereotype.Component;
-import sun.security.util.Password;
 
 import java.io.BufferedReader;
 import java.io.InputStreamReader;
@@ -19,7 +18,7 @@ public class LogImporter {
 
     private static final Logger LOGGER = Logger.getLogger("logfile");
 
-    public void logTracker(String userName,String ip,Password password,String Path1,String Path2) {
+    public void logTracker(String userName,String ip,String password,String Path1,String Path2) {
         LOGGER.info(userName+ip+password+Path1+Path2) ;
         try {
             Runtime process = Runtime.getRuntime();
